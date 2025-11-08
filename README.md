@@ -62,7 +62,8 @@ Dataset provided as: **xy_data.csv**
 You can view the curve directly here:  
 [Desmos Link](https://www.desmos.com/calculator/rfj91yrxob)
 
-Paste the equation and set \(6 \leq t \leq 60\).
+Paste the equation and set t{6,60}
+
 
 ---
 
@@ -84,3 +85,4 @@ The full implementation (data loading, visualization, optimization, and plotting
 
 ### ✍️ Author
 Siddharth B — Research and Development / AI Assignment (Curve Parameter Estimation)
+
